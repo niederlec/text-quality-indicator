@@ -35,5 +35,8 @@
   "bugs": {
     "url": "https://github.com/Inist-CNRS/text-quality-indicator/issues"
   },
-  "homepage": "https://github.com/Inist-CNRS/text-quality-indicator#readme"
+  "homepage": "https://github.com/Inist-CNRS/text-quality-indicator#readme",
+  "publishConfig": {
+    "registry": "http://vxnexus-registry.intra.inist.fr:8081/repository/npm-hosted/"
+  }
 }
