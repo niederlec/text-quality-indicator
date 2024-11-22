@@ -37,6 +37,6 @@
   },
   "homepage": "https://github.com/Inist-CNRS/text-quality-indicator#readme",
   "publishConfig": {
-    "registry": "http://vxnexus-registry.intra.inist.fr:8081/repository/npm-hosted/"
+    "registry": "http://vxnexus-registry.intra.inist.fr:8081/repository/npm-public/"
   }
 }
